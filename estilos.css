@@ -25,9 +25,6 @@ body {
 .tamañoletra {
 	font-size: xx-large;
 }
-.centrar {
-	text-align: center;
-}
 .centrarfoto {
 	display:block;
 	margin:auto;
@@ -41,7 +38,4 @@ body {
     border-style: groove;
 	margin:auto;
 	text-align: center;
-}
-table tr {
-  text-align: center;
 }

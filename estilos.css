@@ -2,8 +2,9 @@ body {
 	background: silver;
 	color: red;
 	font-size: medium;
-	margin: 2em;
-	margin-left: 2em;
+	margin-top: 1.55em;
+	margin-left: 1.6em;
+	margin-right: 1.5em;
 }
 .colorenlace {
 	color: red;
@@ -38,4 +39,31 @@ body {
     border-style: groove;
 	margin:auto;
 	text-align: center;
+}
+#parrafo1 {
+		padding-top: 17.5px;
+		padding-bottom: 16px;
+}
+#parrafo2 {
+		font-style: oblique;
+		padding-top: 50px;
+		padding-bottom: 20px;
+}
+.parrafo3 {
+		padding-top: 18px;
+}
+#parrafo4 {
+		padding-top: 18px;
+		padding-bottom: 18px;
+}
+#parrafo5 {
+	padding-top: 35px;
+}
+#parrafo6 {
+	font-style: oblique;
+	padding-top: 16px;
+}
+#parrafo7 {
+	font-style: oblique;
+	padding-bottom: 17px;
 }

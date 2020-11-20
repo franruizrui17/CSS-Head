@@ -1,0 +1,47 @@
+body {
+	background: silver;
+	color: red;
+	font-size: medium;
+	margin: 2em;
+	margin-left: 2em;
+}
+.colorenlace {
+	color: red;
+}
+#fotofondo {
+	height: 250px;
+	width: 300px;
+	background: url(lista.PNG);
+}
+.negrita {
+	font-weight: bold;
+}
+.cursiva {
+	font-style: oblique;
+}
+.subrayado {
+	text-decoration: underline;
+}
+.tamañoletra {
+	font-size: xx-large;
+}
+.centrar {
+	text-align: center;
+}
+.centrarfoto {
+	display:block;
+	margin:auto;
+}
+#centrartabla {
+	background: orange;
+	height: 500px;
+	width: 900px;
+	display:table;
+	border-width: 5px;
+    border-style: groove;
+	margin:auto;
+	text-align: center;
+}
+table tr {
+  text-align: center;
+}

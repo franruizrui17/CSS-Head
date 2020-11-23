@@ -1,13 +1,13 @@
 body {
-	background: silver;
-	color: red;
+	background: LIGHTSALMON;
+	color: black;
 	font-size: medium;
 	margin-top: 1.55em;
 	margin-left: 1.6em;
 	margin-right: 1.5em;
 }
 .colorenlace {
-	color: red;
+	color: black;
 }
 #fotofondo {
 	height: 250px;
